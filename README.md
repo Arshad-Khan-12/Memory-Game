@@ -19,20 +19,17 @@ This project is a simple memory game built using HTML, CSS, and JavaScript. It's
 
 ## Demo
 
+## Site URL
+
 [URL For the Memory Game](https://arshad-khan-12.github.io/Memory-Game/)
 
 
+## Sample Images
 
-
-
-
-
-
-
-![Sample Image](https://github.com/Arshad-Khan-12/Memory-Game/blob/main/memory%20game%201.png?raw=true)
-![Sample Image](https://github.com/Arshad-Khan-12/Memory-Game/blob/main/memory%20game%202.png?raw=true)
-![Sample Image](https://github.com/Arshad-Khan-12/Memory-Game/blob/main/memory%20game%203.png?raw=true)
-![Sample Image](https://github.com/Arshad-Khan-12/Memory-Game/blob/main/memory%20game%204.png?raw=true)
+![Image 1](https://github.com/Arshad-Khan-12/Memory-Game/blob/main/Screenshots/1.png?raw=true)
+![Image 2](https://github.com/Arshad-Khan-12/Memory-Game/blob/main/Screenshots/1.png?raw=true)
+![Image 3](https://github.com/Arshad-Khan-12/Memory-Game/blob/main/Screenshots/1.png?raw=true)
+![Image 4](https://github.com/Arshad-Khan-12/Memory-Game/blob/main/Screenshots/1.png?raw=true)
 
 ## Features
 
