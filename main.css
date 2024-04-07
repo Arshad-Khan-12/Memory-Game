@@ -28,6 +28,18 @@ body {
     padding: 20px;
     color: black;
     text-align: center;
-    font-size: 1.5em;
+    font-size: 1em;
     font-family: sans-serif;
+}
+
+.footer{
+	/* make the footer appear smaller but still visible in the static screen without even scrolling */
+	/* position: fixed; */
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: #333;
+	font-style: italic;
+	color: white;
+	text-align: center;
 }
