@@ -70,7 +70,7 @@ To run the Memory Game locally on your machine, follow these steps:
 
 ## Credits
 
-This project was created by [Your Name](https://github.com/your-username). It's inspired by the classic memory game concept and uses resources and tutorials from various online sources.
+This project was created by [Your Name](https://github.com/Arshad-Khan-12). It's inspired by the classic memory game concept and uses resources and tutorials from various online sources.
 
 ## License
 
