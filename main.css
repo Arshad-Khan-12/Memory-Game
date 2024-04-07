@@ -1,0 +1,33 @@
+body {
+	background: linear-gradient(to bottom,#59c4fd,#2b57c6);
+	margin: 0;
+}
+
+.tiles {
+	margin: 48px auto;
+	width: max-content;
+	display: grid;
+	grid-template-columns: repeat(4, 100px);
+	gap: 16px;
+	box-sizing: border-box;
+}
+
+.tile {
+	height: 100px;
+	background:darkgray;
+	border: 5px solid #0a0a0a;
+	cursor: pointer;
+}
+
+/* add some beautiful css to make this text attractive in the lower bottom of the screen */
+.memory-game{
+    
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 20px;
+    color: black;
+    text-align: center;
+    font-size: 1.5em;
+    font-family: sans-serif;
+}
