@@ -23,6 +23,12 @@ This project is a simple memory game built using HTML, CSS, and JavaScript. It's
 
 
 
+
+
+
+
+
+
 ![Sample Image](https://github.com/Arshad-Khan-12/Memory-Game/blob/main/memory%20game%201.png?raw=true)
 ![Sample Image](https://github.com/Arshad-Khan-12/Memory-Game/blob/main/memory%20game%202.png?raw=true)
 ![Sample Image](https://github.com/Arshad-Khan-12/Memory-Game/blob/main/memory%20game%203.png?raw=true)
